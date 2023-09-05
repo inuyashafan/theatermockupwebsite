@@ -1,0 +1,126 @@
+ 
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+ 
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.navbar {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-links {
+    text-align: center;
+}
+
+.nav-links a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.hero img {
+    width: 100%;
+}
+
+.event-info {
+    background-color: #fff;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.event {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.event img {
+    width: 150px;
+    margin-right: 20px;
+}
+
+.event-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.event-date {
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.event-location {
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.event-price {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.read-more {
+    background-color: yellow;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Style the footer */
+.footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+}
+
+.location img {
+    width: 100px;
+    margin-right: 20px;
+}
+
+.info {
+    font-size: 16px;
+}
+
+.info-title {
+    font-weight: bold;
+}
+
+.social-link {
+    margin-top: 10px;
+}
+
+.social-link a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+ 
